@@ -88,10 +88,10 @@ const MenuSidebar = () => {
                                     color={colors.grey[100]}
                                     fontWeight="bold"
                                     sx={{m: "10px 0 0 0"}}>
-                                    VO DE
+                                    SUPER ADMIN
                                 </Typography>
                                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                                    VP FANCY Admin
+                                    Very Powerful
                                 </Typography>
                             </Box>
                         </Box>
